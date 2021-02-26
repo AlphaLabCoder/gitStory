@@ -1,1 +1,7 @@
 - git init
+- git status
+- git add chapter1.txt
+- git commit -m "Initial Commit"
+- git config --global user.email "you@example.com" or "Your Name".
+- git commit -m "Complete Chapter 1"
+- git log
